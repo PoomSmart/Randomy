@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "RandomySettings";
+		cell = PSLinkCell;
+		detail = "RandomyPreferenceController";
+		icon = "Randomy.png";
+		isController = 1;
+		label = "Randomy";
+	};
+}

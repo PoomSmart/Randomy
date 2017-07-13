@@ -1,0 +1,9 @@
+Package: org.thebigboss.randomy
+Name: Randomy
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0), firmware (<< 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Where tint blur and color transition animation met.
+Author: PoomSmart
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/RandomySettings.bundle/Randomy@2x.png
