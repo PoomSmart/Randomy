@@ -15,12 +15,10 @@ __attribute__((visibility("hidden")))
 
 - (void)twt:(id)param
 {
-	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"twitter://user?screen_name=PoomSmart"]];
 }
 
 - (void)donate:(id)param
 {
-	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GBQGZL8EFMM86"]];
 }
 
 - (void)setInput:(id)value specifier:(PSSpecifier *)spec
